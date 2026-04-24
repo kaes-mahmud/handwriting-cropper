@@ -2,4 +2,4 @@ streamlit
 opencv-python-headless
 numpy
 Pillow
-//image should be clear and straight
+//image_should_be_clear_and_straight
