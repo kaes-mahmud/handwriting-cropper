@@ -2,3 +2,4 @@ streamlit
 opencv-python-headless
 numpy
 Pillow
+//image should be clear and straight
